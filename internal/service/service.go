@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nutochkk/pubsub-service/pkg/subpub"
+	"github.com/nutochk/vk-test/pkg/subpub"
 	"go.uber.org/zap"
 )
 

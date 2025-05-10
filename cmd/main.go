@@ -8,10 +8,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/nutochkk/pubsub-service/internal/config"
-	"github.com/nutochkk/pubsub-service/internal/server"
-	"github.com/nutochkk/pubsub-service/internal/service"
-	pubsub "github.com/nutochkk/pubsub-service/pkg/api"
+	"github.com/nutochk/vk-test/internal/config"
+	"github.com/nutochk/vk-test/internal/server"
+	"github.com/nutochk/vk-test/internal/service"
+	pubsub "github.com/nutochk/vk-test/pkg/api"
 	"go.uber.org/zap"
 	"google.golang.org/grpc"
 )

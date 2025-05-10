@@ -31,7 +31,7 @@ rpc Publish(PublishRequest) returns (google.protobuf.Empty);
 ***Go 1.23.3***
 
 ```
-git clone https://github.com/nutockk/vk-test
+git clone https://github.com/nutock/vk-test
 cd vk-test
 go mod tidy   
 go build ./cmd

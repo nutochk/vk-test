@@ -1,4 +1,4 @@
-module github.com/nutochkk/pubsub-service
+module github.com/nutochk/vk-test
 
 go 1.23.3
 

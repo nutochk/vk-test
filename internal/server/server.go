@@ -4,8 +4,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/nutochkk/pubsub-service/internal/service"
-	pubsub "github.com/nutochkk/pubsub-service/pkg/api"
+	"github.com/nutochk/vk-test/internal/service"
+	pubsub "github.com/nutochk/vk-test/pkg/api"
 	"go.uber.org/zap"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
