@@ -1,0 +1,2 @@
+GRPCPort: 50051
+ShutdownTimeout: 10s
